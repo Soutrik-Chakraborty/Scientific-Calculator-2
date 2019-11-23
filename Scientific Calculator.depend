@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552996526 source:c:\web development tutorials\c++\c++ projects\scientific calculator\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cctype>
+	<cmath>
+
